@@ -74,3 +74,9 @@ $ mix phx.server
 ```
 
 If everything went well, you can now start sending requests to the endpoints!
+
+You can run the unit tests with the following command:
+
+```
+$ mix test
+```
